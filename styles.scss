@@ -11,7 +11,7 @@ body {
 .landing {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-image: url("images/cover2.jpg");
+  background-image: url("./public/images/cover3.jpg");
   height: 700px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -358,7 +358,7 @@ a {
 .trending {
   display: flex;
   justify-content: space-between;
-  margin: 30px 200px;
+  margin: 30px 220px;
 }
 
 @media screen and (max-width: 1550px) {
